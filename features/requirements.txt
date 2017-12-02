@@ -1,0 +1,9 @@
+jupyter
+librosa
+numpy
+scikits.samplerate
+scikit-image
+scikit-learn
+matplotlib
+scipy
+tqdm
